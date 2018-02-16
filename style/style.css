@@ -4,7 +4,7 @@
 }	
 p {
 	text-align:justify;
-	padding: 45 15 45 15px; /* Поля вокруг текста */
+	padding: 45px; /* Поля вокруг текста */
     	margin-bottom: 5px;
 }
 
