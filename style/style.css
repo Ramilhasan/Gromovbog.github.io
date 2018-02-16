@@ -7,8 +7,10 @@ p {
 	padding: 0 15 0 15px; /* Поля вокруг текста */
     	margin-bottom: 5px;
 }
-h1 {
-	font: caps 30px/32px fantasy;
+
+h0 {
+	font: 300% caps;
+	text-align:center
 }
 
 
