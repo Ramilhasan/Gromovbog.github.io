@@ -9,14 +9,14 @@ p {
 }
 
 h0 {
-	font: font: 200px;
+	font: 200px;
 	font-varint: small-caps;
 	text-align:center;
 }
 
 
 h1 {
-	font: bold 110% serif green;
+	font: bold 110% serif #fff211;
 }
 
 /* Eric Meyer's CSS Reset 
