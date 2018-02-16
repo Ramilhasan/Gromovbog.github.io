@@ -4,7 +4,7 @@
 }	
 p {
 	text-align:justify;
-	padding: 45px; /* Поля вокруг текста */
+	padding: 15px; /* Поля вокруг текста */
     	margin-bottom: 5px;
 }
 
@@ -16,7 +16,7 @@ h0 {
 
 
 h1 {
-	font: bold 110% serif #fff211;
+	font: 300px #fff211;
 }
 
 /* Eric Meyer's CSS Reset 
