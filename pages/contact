@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script><![endif]-->
+	<title></title>
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<link href="style/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="wrapper">
+
+	<header class="header">
+		<strong>Header:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tortor. Praesent dictum, libero ut tempus dictum, neque eros elementum mauris, quis mollis arcu velit ac diam. Etiam neque. Quisque nec turpis. Aliquam arcu nulla, dictum et, lacinia a, mollis in, ante. Sed eu felis in elit tempor venenatis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut ultricies porttitor purus. Proin non tellus at ligula fringilla tristique. Fusce vehicula quam. Curabitur vel tortor vitae pede imperdiet ultrices. Sed tortor.
+	</header><!-- .header-->
+
+	<div class="middle">
+
+		<div class="container">
+			<main class="content">
+				<strong>Content:</strong> Sed placerat accumsan ligula. Aliquam felis magna, congue quis, tempus eu, aliquam vitae, ante. Cras neque justo, ultrices at, rhoncus a, facilisis eget, nisl. Quisque vitae pede. Nam et augue. Sed a elit. Ut vel massa. Suspendisse nibh pede, ultrices vitae, ultrices nec, mollis non, nibh. In sit amet pede quis leo vulputate hendrerit. Cras laoreet leo et justo auctor condimentum. Integer id enim. Suspendisse egestas, dui ac egestas mollis, libero orci hendrerit lacus, et malesuada lorem neque ac libero. Morbi tempor pulvinar pede. Donec vel elit.
+<a href="#" class="expand">Expand column</a>			</main><!-- .content -->
+		</div><!-- .container-->
+
+		<aside class="left-sidebar">
+			<strong>Left Sidebar:</strong>
+			
+			<ul>
+   <li><p><img src="https://image.freepik.com/free-icon/no-translate-detected_318-68102.jpg" width="20" height="20"><a>   </a><a href="Gromovbog.github.io/pages/index.html">Домой</a></p></li>
+   <li><p><img src="https://image.freepik.com/free-icon/no-translate-detected_318-64651.jpg" width="20" height="20"><a>   </a><a href="Gromovbog.github.io/pages/galary.html">Галерия</a></p></li>
+   <li><p><img src="https://image.freepik.com/free-icon/no-translate-detected_318-42541.jpg" width="20" height="20"><a>   </a><a href="Gromovbog.github.io/pages/video.html">Видео</a></p></li>
+   <li><p><img src="https://image.freepik.com/free-icon/no-translate-detected_318-76225.jpg" width="20" height="20"><a>   </a><a href="Gromovbog.github.io/pages/instruction.html">Тех. инф.</a></p></li>
+   <li><p><img src="https://image.freepik.com/free-icon/no-translate-detected_318-76714.jpg" width="20" height="20"><a>   </a><a href="Gromovbog.github.io/pages/contact.html">Контакты</a></p></li>
+  </ul>
+			
+			<h1> СТАТЬЯ НОМЕР 1</h1>
+  
+   
+  </aside><!-- .left-sidebar -->
+
+	</div><!-- .middle-->
+
+	<footer class="footer">
+		<strong>Copyright (c)</strong>Gromov 2017 / Moscow</strong>
+	</footer><!-- .footer -->
+
+</div><!-- .wrapper -->
+
+</body>
+</html>
