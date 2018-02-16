@@ -4,7 +4,7 @@
 }	
 p {
 	text-align:justify;
-	padding: 0 15 0 15px; /* Поля вокруг текста */
+	padding: 45 15 45 15px; /* Поля вокруг текста */
     	margin-bottom: 5px;
 }
 
@@ -133,6 +133,7 @@ a.expand:hover {
 /* Footer
 -----------------------------------------------------------------------------*/
 .footer {
+	font:30px;
 	height: 200px;
 	background: #BFF08E;
 }
