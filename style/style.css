@@ -1,5 +1,6 @@
 * {
-
+	margin: 0;
+	padding: 0;
 }	
 p {
 	text-align:justify;
@@ -89,6 +90,7 @@ body {
 	content: '';
 }
 .container {
+	background-image:url(
 	float: left;
 	overflow: hidden;
 	margin-right: -100%;
