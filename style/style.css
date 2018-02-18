@@ -96,7 +96,11 @@ body {
 	margin-right: -100%;
 }
 .content {
-	padding: 0 20px;
+	padding-left: 50px;
+	padding-top:20px;
+	width: 751px;
+	background-color:#00000021;
+	
 }
 
 
