@@ -1,6 +1,5 @@
 * {
 
-	background: url(https://gromovbog.github.io/img/bg.jpg);
 }	
 p {
 	text-align:justify;
@@ -32,6 +31,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	background: url(https://gromovbog.github.io/img/bg.jpg);
 }
 ol, ul {
 	list-style: none;
