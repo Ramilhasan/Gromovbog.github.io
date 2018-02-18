@@ -49,6 +49,7 @@ q:before, q:after {
 }
 /* End of Eric Meyer's CSS Reset */
 
+
 article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
 	display: block;
 }
@@ -77,6 +78,7 @@ body {
 /* Middle
 -----------------------------------------------------------------------------*/
 .middle {
+	padding:20px 5px 20px 5px;
 	border-left: 400px solid #B5E3FF;
 	position: relative;
 }
@@ -86,7 +88,7 @@ body {
 	content: '';
 }
 .container {
-	padding:30px
+	padding:30px;
 	width: 100%;
 	float: left;
 	overflow: hidden;
