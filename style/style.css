@@ -114,6 +114,7 @@ body {
 /* Footer
 -----------------------------------------------------------------------------*/
 .footer {
+	margin-top:420px;
 	text-align:center;
 	vertical-align: middle;
 	height: 120px;
