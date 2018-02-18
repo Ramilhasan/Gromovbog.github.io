@@ -43,8 +43,7 @@ blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
 	content: none;
-}
- table {
+} table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
@@ -111,8 +110,7 @@ body {
 -----------------------------------------------------------------------------*/
 .footer {
 	text-align:center;
-	
-	font:60px bold #fff;
-	height: 60px;
+	vertical-align: middle;
+	height: 120px;
 	background: #BFF08E;
 }
