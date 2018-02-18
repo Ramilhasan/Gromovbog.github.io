@@ -80,7 +80,7 @@ body {
 -----------------------------------------------------------------------------*/
 .middle {
 	padding:20px 5px 20px 5px;
-	border-left:400px solid rgba(199, 181, 255, 0.12)
+	border-left:200px solid rgba(199, 181, 255, 0.12)
 	position: absolute;
 }
 .middle:after {
@@ -107,7 +107,7 @@ body {
 	width: 180px;
 	position: relative;
 	background: #FFF;
-	left: -420px;
+	left: -220px;
 }
 
 
