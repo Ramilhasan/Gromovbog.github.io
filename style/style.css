@@ -110,7 +110,9 @@ body {
 /* Footer
 -----------------------------------------------------------------------------*/
 .footer {
-	font:30px;
+	text-align:center;
+	font-color:white;
+	font:60px;
 	height: 60px;
 	background: #BFF08E;
 }
