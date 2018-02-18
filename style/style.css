@@ -42,7 +42,7 @@ blockquote, q {
 blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
-	content: none;
+;	content: none;
 } table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -80,7 +80,7 @@ body {
 -----------------------------------------------------------------------------*/
 .middle {
 	padding:20px 5px 20px 5px;
-	border-left:200px solid rgba(199, 181, 255, 0.12)
+	border-left:200px solid rgba(199, 181, 255, 0.12);
 	position: absolute;
 }
 .middle:after {
