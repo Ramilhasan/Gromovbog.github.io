@@ -1,19 +1,30 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Exercise_Three</title>
+<title>Exercise_Five</title>
 </head>
 <body>
-
-<h1>Задание: 3</h1>
-<h2>Радиокнопки, предназначенные для выбора цвета фона страницы.</h2>
+<h1>Задание: 5</h1>
+<h2>Содержать два поля для ввода числовых значений и кнопку, при нажатии на которую должно появляться сообщение с результатом, например, сумма чисел (должна быть проверка на корректность ввода, вычисление результата реализовать в виде функции, вызывать эту функцию по нажатию кнопки). </h2>
 
 <script>
-document.write('<H1>Выберите цвет фона страницы</H1>');
+function func() {
+var a = Number(document.getElementById('a').value, 10);
+var b = Number(document.getElementById('b').value, 10);
+if (!isNaN(a) && !isNaN(b)) {
+var c = a + b;
+alert(c);
+} else {
+alert("Введите числа!");
+}
+}
 </script>
-<input type="radio" name="R" onclick="document.bgColor='white'">Белый<br/>
-<input type="radio" name="R" onclick="document.bgColor='lightblue'">Светло-синий<br/>
-<input type="radio" name="R" onclick="document.bgColor='lightyellow'">Светло-желтый<br/>\
+<input id="a" type="text"><br>
+<input id="b" type="text"><br>
 
+<input type="button" value="Умножить числа" onclick="func();"><br>
+
+  
+<a href="Four_exercise.html"><h2>Предыдущая страница></h2></a> 
 </body>
 </html>
