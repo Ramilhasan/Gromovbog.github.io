@@ -7,5 +7,4 @@
 4. Ссылки             - CHECK
 5. JavaScript         - CHECK
 6. Страничку в WIKI   - CHECK
-7. USECase/UMLdiagram - CHECK
-8. #
+
