@@ -111,8 +111,8 @@ function drawHand(ctx, pos, length, width) {
     ctx.stroke();
     ctx.rotate(-pos);
 }
-</script>	    
-	   </th>
+</script></th>
+	   
     <th>Вторые часы:
 <canvas id="canvas2" width="300" height="300"
 style="background-color:#">
@@ -124,7 +124,7 @@ var ctx = canvas.getContext("2d");
 var radius = canvas.height / 2;
 ctx.translate(radius, radius);
 radius = radius * 0.90
-setInterval(drawClock, 5000);
+setInterval(drawClock, 1000);
 
 function drawClock() {
   drawFace(ctx, radius);
