@@ -9,24 +9,7 @@
 	<link href="/style/style.css" rel="stylesheet">
 </head>
 
-<body>
-
-<div class="wrapper">
-
-	<header class="header">
-		<a href="Gromovbog.github.io/index.html">Gromov Website</a></p></li>
-	</header><!-- .header-->
-
-	<div class="middle">
-
-		<div class="container">
-			<main class="content">
-      
-				 <table border="1">
-  
-   <tr>
-    <th>Первые часы:
-	   <script>
+<script>
 var canvas = document.getElementById("canvas");
 var ctx = canvas.getContext("2d");
 var radius = canvas.height / 2;
@@ -106,7 +89,28 @@ function drawHand(ctx, pos, length, width) {
     ctx.stroke();
     ctx.rotate(-pos);
 }
-</script>
+</script>	
+	
+<body>
+
+<div class="wrapper">
+
+	<header class="header">
+		<a href="Gromovbog.github.io/index.html">Gromov Website</a></p></li>
+	</header><!-- .header-->
+
+	<div class="middle">
+
+		<div class="container">
+			<main class="content">
+      
+				 <table border="1">
+  
+   <tr>
+    <th>Первые часы:
+<canvas id="canvas" width="400" height="400"
+style="background-color:#333">
+</canvas>
 	   </th>
     <th>Вторые часы:</th>
  
